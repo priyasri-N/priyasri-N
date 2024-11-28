@@ -1,51 +1,39 @@
-👋 Hi, I’m PRIYA SRI!
+👋 Hi there! I’m PRIYASRI
 
-Welcome to my GitHub profile! I am a passionate Python Full-Stack Developer with experience in building scalable and efficient web applications. I enjoy working on innovative projects and exploring new technologies.
+Welcome to my GitHub profile! I’m a Python Full-Stack Developer passionate about crafting seamless web applications and delivering impactful digital solutions. With a strong foundation in both backend and frontend technologies, I thrive on building scalable, user-centric applications.
 
 🚀 About Me
 
-💻 Full-Stack Developer specializing in Python and web technologies.
+Profession: Full-Stack Developer specializing in Python, Django, and modern JavaScript frameworks.
 
-🌱 Currently diving deeper into DevOps and Cloud Architecture.
+Experience: Building robust backend systems and dynamic, responsive UIs.
 
-🎯 Focused on writing clean, maintainable code and building impactful software.
+Interests: Web development, API design, cloud technologies, and open-source contributions.
 
-💡 Passionate about problem-solving, learning, and contributing to the open-source community.
+Currently Learning: Advanced DevOps practices and performance optimization for web applications.
+
+Hobbies: Coding, problem-solving, and exploring the latest tech trends.
 
 🛠 Skills and Technologies
 
-Programming Languages
-*python
+Backend Development:
 
-*html
+Languages: Python
 
-*php
+Frameworks: Django, Flask, FastAPI
 
-*css
+API Design: RESTful APIs, GraphQL
 
-*django
+Databases: PostgreSQL, MySQL, MongoDB
 
-Frontend Development
+Frontend Development:
 
-*html
+Languages: JavaScript, TypeScript
 
-*css
+Frameworks/Libraries: React, Bootstrap
 
-*bootstrap
+UI/UX Tools: HTML5, CSS3, TailwindCSS
 
-*javascript
 
-*jquery
-
-*react
-
-Backend Development
-
-*python
-
-*sql
-
-Databases
-
-*django
-
+✨ Fun Fact
+I believe there’s always a Python library for every challenge—if not, I’ll build one!
